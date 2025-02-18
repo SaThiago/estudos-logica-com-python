@@ -1,5 +1,5 @@
 # Introdução ao Python 🐍
-Python é uma linguagem de programação versátil, simples e amplamente utilizada em diversas áreas, como desenvolvimento web, ciência de dados, automação, inteligência artificial e mais. Este documento apresenta uma visão geral dos conceitos básicos para quem está começando.
+Python é uma linguagem de programação versátil, simples e amplamente utilizada em diversas áreas, como desenvolvimento web, ciência de dados, automação, inteligência artificial e entre outros. Este repositório contém arquivos de estudos básicos de linguagem de programação em Python.
 
 ## Conceitos Fundamentais
 1. Variáveis e Tipos de Dados
