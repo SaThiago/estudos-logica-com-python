@@ -18,8 +18,8 @@ As funções permitem a reutilização de código, encapsulando blocos de lógic
 Python possui uma vasta coleção de módulos e bibliotecas que expandem suas funcionalidades, permitindo integrar ferramentas específicas de áreas como matemática, ciência de dados e automação.
 
 ## Por que Python?
-Fácil de aprender: Sintaxe clara e amigável para iniciantes.
-Versátil: Usado em aplicações diversas, desde scripts simples até sistemas complexos.
-Comunidade ativa: Grande quantidade de recursos e suporte disponível.
+Fácil de aprender: Sintaxe clara e amigável para iniciantes. <br>
+Versátil: Usado em aplicações diversas, desde scripts simples até sistemas complexos. <br>
+Comunidade ativa: Grande quantidade de recursos e suporte disponível. <br>
 Explore, experimente e divirta-se programando em Python! 🚀
 
