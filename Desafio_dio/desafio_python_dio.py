@@ -15,9 +15,6 @@ while True:
     [e] Extrato
     [q] Sair
     Digite a opção desejada: """).strip().lower()
-    if not entrada:
-        print("Digite alguma das opções.")
-        continue
     opcao = entrada[0]  
     if opcao in opcoes:
         print(f"Você escolheu: ({opcoes[opcao]})")
