@@ -32,7 +32,7 @@ def criar_conta(agencia, usuarios, contas):
         print(f"\n=== Conta C/C: {numero_conta}, Ag: {agencia} criada com sucesso para {usuario['nome']}! ===")
         return
 
-    print("\n@@@ Usuário não encontrado. Criação de conta falhou. @@@")
+    print("\n*** Usuário não encontrado. Criação de conta falhou. ***")
 
 def listar_contas(contas):
     """Exibe uma lista formatada de todas as contas."""
@@ -152,7 +152,7 @@ def main():
             listar_contas(contas)
         elif opcao in ['d', 's', 'e']:
             if not contas:
-                print("\n@@@ Não há contas cadastradas para realizar operações. @@@")
+                print("\n*** Não há contas cadastradas para realizar operações. ***")
                 continue
             
             num_conta_input = int(input("Informe o número da conta: "))
@@ -166,7 +166,7 @@ def main():
                 elif opcao == 'e':
                     exibir_extrato(conta_selecionada)
             else:
-                print("\n@@@ Conta não encontrada! @@@")
+                print("\n*** Conta não encontrada! ***")
 
 # Ponto de Entrada do Programa
 if __name__ == "__main__":
